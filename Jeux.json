@@ -1,0 +1,13 @@
+{
+    "Ref" : 1,
+    "IdCategorie" : 1,
+    "IdAuteur" : 1,
+    "Nom" : "Duels de dragons",
+    "Description" : "Jeu de rôle trop cool",
+    "Prix" : 15,
+    "NbJoueurs" : 5,
+    "Durée" : "90 min",
+    "AgeMin" : "6",
+    "Langues" : "Francais"
+
+}
