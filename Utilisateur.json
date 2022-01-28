@@ -1,7 +1,48 @@
-{
+[
 
-    "IdUtilisateur" : 1,
-    "Nom" : "HADJ",
-    "Prénom" : "Clément",
-    "IdAvis" : []
-}
+    {
+        "IdUtilisateur" : 1,
+        "Nom" : "HADJ",
+        "Prénom" : "Clément",
+        "IdAvis" : []
+    }
+    ,
+    {
+
+        "IdUtilisateur" : 2,
+        "Nom" : "DUVERNAY",
+        "Prénom" : "Manon",
+        "IdAvis" : []
+    }
+    ,
+    {
+        "IdUtilisateur" : 3,
+        "Nom" : "GAT",
+        "Prénom" : "Sarah",
+        "IdAvis" : []
+    }
+    ,
+    {
+        "IdUtilisateur" : 4,
+        "Nom" : "FEURTET",
+        "Prénom" : "Clara",
+        "IdAvis" : []
+    }
+    ,
+    {
+        "IdUtilisateur" : 5,
+        "Nom" : "CHEVALLIER",
+        "Prénom" : "Margaux",
+        "IdAvis" : []
+    }
+    ,
+    {
+        "IdUtilisateur" : 6,
+        "Nom" : "CHEVALLIER",
+        "Prénom" : "Guillaume",
+        "IdAvis" : []
+    }
+
+
+
+]
